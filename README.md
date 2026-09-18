@@ -6,7 +6,6 @@ Favourite activiy: Larping
 <p>
   <img
     src="https://64.media.tumblr.com/a82291e29891c36f796779a81aed6855/tumblr_odekl4KngX1scncwdo1_540.gif"
-    height="200"
     width="400"
     alt="gif"
   />
